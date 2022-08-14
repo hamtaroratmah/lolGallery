@@ -1,5 +1,4 @@
 import {Component, OnInit} from '@angular/core';
-import {Observable} from "rxjs";
 import {Champion} from "../../../core/models/champion.model";
 import {HttpClient} from "@angular/common/http";
 import {ChampionService} from "../../../core/services/champions.services";
